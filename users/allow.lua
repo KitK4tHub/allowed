@@ -9,5 +9,6 @@ return {
     "saitama9rsm",
     "Faxcarioca",
     "RUANRODRIGO121121",
-    "meka_html"
+    "meka_html",
+    "itz_kadu22"
 }
