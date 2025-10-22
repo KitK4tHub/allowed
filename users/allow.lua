@@ -11,5 +11,6 @@ return {
     "RUANRODRIGO121121",
     "meka_html",
     "itz_kadu22",
-    "Meka_js"
+    "Meka_js",
+    "shawnloveblazy"
 }
