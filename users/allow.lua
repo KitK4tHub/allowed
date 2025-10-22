@@ -8,6 +8,5 @@ return {
     "ACNDIEGO",
     "saitama9rsm",
     "Faxcarioca",
-    "RUANRODRIGO121121",
-    "meka_js"
+    "RUANRODRIGO121121"
 }
