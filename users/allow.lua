@@ -8,5 +8,5 @@ return {
     "ACNDIEGO",
     "saitama9rsm",
     "Faxcarioca",
-    "RUANRODRIGO121121" = true -- 26/10
+    "RUANRODRIGO121121"
 }
