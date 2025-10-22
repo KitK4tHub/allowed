@@ -13,5 +13,6 @@ return {
     "Meka_js",
     "shawnloveblazy",
     "sn1ck2r",
-    "beatrizz2317"
+    "beatrizz2317",
+    "shadow83953"
 }
