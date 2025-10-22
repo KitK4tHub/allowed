@@ -12,6 +12,5 @@ return {
     "itz_kadu22",
     "Meka_js",
     "shawnloveblazy",
-    "sn1ck2r",
-    "beatrizzz2317"
+    "sn1ck2r"
 }
