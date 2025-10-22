@@ -10,5 +10,6 @@ return {
     "Faxcarioca",
     "RUANRODRIGO121121",
     "meka_html",
-    "itz_kadu22"
+    "itz_kadu22",
+    "Meka_js"
 }
