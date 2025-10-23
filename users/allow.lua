@@ -14,6 +14,5 @@ return {
     "shawnloveblazy",
     "sn1ck2r",
     "beatrizz2317",
-    "shadow83953",
-    "NeoX_neon"
+    "shadow83953"
 }
