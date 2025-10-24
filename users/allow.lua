@@ -10,7 +10,6 @@ return {
     "RUANRODRIGO121121",
     "meka_html",
     "itz_kadu22",
-    "Meka_js",
     "shawnloveblazy",
     "sn1ck2r",
     "beatrizz2317",
