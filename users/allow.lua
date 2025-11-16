@@ -9,9 +9,10 @@ return {
     "Jv200278",
     "Novinho379",
     "KcsLaQLbOwB",
-    "phgs2456", 
+    "phgs2456",
     "Comunidade_6",
     "17896Oi",
     "sansu78906",
-    "Gabriel263633j"
+    "Gabriel263633j",
+    "magmeXK"
 }
