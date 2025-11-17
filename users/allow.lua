@@ -13,5 +13,6 @@ return {
     "Comunidade_6",
     "17896Oi",
     "sansu78906",
-    "Gabriel263633j"
+    "Gabriel263633j",
+    "magmeXK"
 }
