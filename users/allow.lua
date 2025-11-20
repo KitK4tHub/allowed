@@ -5,7 +5,6 @@ return {
     "ACNDIEGO",
     "Faxcarioca",
     "RUANRODRIGO121121",
-    "ADMBROOKHAVEN8000",
     "Novinho379",
     "KcsLaQLbOwB",
     "phgs2456",
