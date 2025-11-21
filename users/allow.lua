@@ -13,6 +13,5 @@ return {
     "sansu78906",
     "Gabriel263633j",
     "magmeXK",
-    "BilalefetrivelaQ7",
     "Estheva574"
 }
