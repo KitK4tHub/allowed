@@ -9,7 +9,6 @@ return {
     "KcsLaQLbOwB",
     "phgs2456",
     "Comunidade_6",
-    "17896Oi",
     "sansu78906",
     "Gabriel263633j",
     "magmeXK",
