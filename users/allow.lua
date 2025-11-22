@@ -11,7 +11,6 @@ return {
     "Comunidade_6",
     "sansu78906",
     "Gabriel263633j",
-    "magmeXK",
     "Estheva574",
     "17896Oi"
 }
