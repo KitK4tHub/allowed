@@ -13,5 +13,6 @@ return {
     "Gabriel263633j",
     "Estheva574",
     "17896Oi",
-    "NeoX_neon"
+    "NeoX_neon",
+    "Jorizi_6"
 }
