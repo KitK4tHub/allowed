@@ -12,6 +12,5 @@ return {
     "sansu78906",
     "Gabriel263633j",
     "17896Oi",
-    "NeoX_neon",
-    "Jorizi_6"
+    "NeoX_neon"
 }
